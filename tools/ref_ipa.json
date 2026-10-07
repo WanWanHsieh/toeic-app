@@ -1,0 +1,402 @@
+{
+ "agenda": {
+  "ipa": "/əˈdʒɛndə/",
+  "pos": "n.",
+  "meaning_zh": "議程"
+ },
+ "attend": {
+  "ipa": "/əˈtɛnd/",
+  "pos": "v.",
+  "meaning_zh": "出席;照料"
+ },
+ "conference": {
+  "ipa": "/ˈkɑnfərəns/",
+  "pos": "n.",
+  "meaning_zh": "會議"
+ },
+ "minutes": {
+  "ipa": "/ˈmɪnəts/",
+  "pos": "n.",
+  "meaning_zh": "會議記錄;分鐘"
+ },
+ "inventory": {
+  "ipa": "/ˈɪnvənˌtɔri/",
+  "pos": "n.",
+  "meaning_zh": "庫存;存貨清單"
+ },
+ "maintenance": {
+  "ipa": "/ˈmeɪntənəns/",
+  "pos": "n.",
+  "meaning_zh": "維護保養"
+ },
+ "renovation": {
+  "ipa": "/ˌrɛnəˈveɪʃən/",
+  "pos": "n.",
+  "meaning_zh": "翻新;整修"
+ },
+ "facility": {
+  "ipa": "/fəˈsɪləti/",
+  "pos": "n.",
+  "meaning_zh": "設施"
+ },
+ "procedure": {
+  "ipa": "/prəˈsiːdʒər/",
+  "pos": "n.",
+  "meaning_zh": "程序"
+ },
+ "efficient": {
+  "ipa": "/ɪˈfɪʃənt/",
+  "pos": "adj.",
+  "meaning_zh": "有效率的"
+ },
+ "distribute": {
+  "ipa": "/dɪˈstrɪbjuːt/",
+  "pos": "v.",
+  "meaning_zh": "分發"
+ },
+ "assignment": {
+  "ipa": "/əˈsaɪnmənt/",
+  "pos": "n.",
+  "meaning_zh": "指派的工作;任務"
+ },
+ "confirm": {
+  "ipa": "/kənˈfɜrm/",
+  "pos": "v.",
+  "meaning_zh": "確認"
+ },
+ "cancellation": {
+  "ipa": "/ˌkænsəˈleɪʃən/",
+  "pos": "n.",
+  "meaning_zh": "取消"
+ },
+ "attachment": {
+  "ipa": "/əˈtætʃmənt/",
+  "pos": "n.",
+  "meaning_zh": "(電子郵件)附件;依戀"
+ },
+ "inquiry": {
+  "ipa": "/ɪnˈkwaɪəri/",
+  "pos": "n.",
+  "meaning_zh": "詢問;調查"
+ },
+ "regarding": {
+  "ipa": "/rɪˈgɑrdɪŋ/",
+  "pos": "prep.",
+  "meaning_zh": "關於"
+ },
+ "urgent": {
+  "ipa": "/ˈɜrdʒənt/",
+  "pos": "adj.",
+  "meaning_zh": "緊急的"
+ },
+ "reminder": {
+  "ipa": "/rɪˈmaɪndər/",
+  "pos": "n.",
+  "meaning_zh": "提醒(信)"
+ },
+ "signature": {
+  "ipa": "/ˈsɪgnətʃər/",
+  "pos": "n.",
+  "meaning_zh": "簽名;招牌特色"
+ },
+ "recruit": {
+  "ipa": "/rɪˈkruːt/",
+  "pos": "v.",
+  "meaning_zh": "招募;新成員"
+ },
+ "candidate": {
+  "ipa": "/ˈkændəˌdeɪt/",
+  "pos": "n.",
+  "meaning_zh": "候選人"
+ },
+ "qualification": {
+  "ipa": "/ˌkwɑləfəˈkeɪʃən/",
+  "pos": "n.",
+  "meaning_zh": "資格"
+ },
+ "supervisor": {
+  "ipa": "/ˈsuːpərˌvaɪzər/",
+  "pos": "n.",
+  "meaning_zh": "主管"
+ },
+ "personnel": {
+  "ipa": "/ˌpɜrsəˈnɛl/",
+  "pos": "n.",
+  "meaning_zh": "人事部門;員工"
+ },
+ "compensation": {
+  "ipa": "/ˌkɑmpənˈseɪʃən/",
+  "pos": "n.",
+  "meaning_zh": "薪酬;賠償金"
+ },
+ "performance": {
+  "ipa": "/pərˈfɔrməns/",
+  "pos": "n.",
+  "meaning_zh": "表現;績效;表演"
+ },
+ "vacancy": {
+  "ipa": "/ˈveɪkənsi/",
+  "pos": "n.",
+  "meaning_zh": "職缺;空房"
+ },
+ "overtime": {
+  "ipa": "/ˈoʊvərˌtaɪm/",
+  "pos": "n.",
+  "meaning_zh": "加班(費);延長賽"
+ },
+ "responsibility": {
+  "ipa": "/rɪˌspɑnsəˈbɪləti/",
+  "pos": "n.",
+  "meaning_zh": "職責"
+ },
+ "benefit": {
+  "ipa": "/ˈbɛnəfɪt/",
+  "pos": "n.",
+  "meaning_zh": "福利"
+ },
+ "revenue": {
+  "ipa": "/ˈrɛvəˌnuː/",
+  "pos": "n.",
+  "meaning_zh": "營收"
+ },
+ "expense": {
+  "ipa": "/ɪkˈspɛns/",
+  "pos": "n.",
+  "meaning_zh": "費用"
+ },
+ "asset": {
+  "ipa": "/ˈæsɛt/",
+  "pos": "n.",
+  "meaning_zh": "資產;有用的人才"
+ },
+ "profit": {
+  "ipa": "/ˈprɑfɪt/",
+  "pos": "n.",
+  "meaning_zh": "利潤"
+ },
+ "balance": {
+  "ipa": "/ˈbæləns/",
+  "pos": "n.",
+  "meaning_zh": "餘額;平衡"
+ },
+ "deposit": {
+  "ipa": "/dɪˈpɑzɪt/",
+  "pos": "n.",
+  "meaning_zh": "存款;押金"
+ },
+ "withdraw": {
+  "ipa": "/wɪðˈdrɔ/",
+  "pos": "v.",
+  "meaning_zh": "提款;撤回"
+ },
+ "interest": {
+  "ipa": "/ˈɪntrəst/",
+  "pos": "n.",
+  "meaning_zh": "利息;興趣"
+ },
+ "loan": {
+  "ipa": "/loʊn/",
+  "pos": "n.",
+  "meaning_zh": "貸款"
+ },
+ "mortgage": {
+  "ipa": "/ˈmɔrgɪdʒ/",
+  "pos": "n.",
+  "meaning_zh": "房屋貸款"
+ },
+ "currency": {
+  "ipa": "/ˈkɜrənsi/",
+  "pos": "n.",
+  "meaning_zh": "貨幣"
+ },
+ "transaction": {
+  "ipa": "/trænˈzækʃən/",
+  "pos": "n.",
+  "meaning_zh": "交易"
+ },
+ "investment": {
+  "ipa": "/ɪnˈvɛstmənt/",
+  "pos": "n.",
+  "meaning_zh": "投資"
+ },
+ "statement": {
+  "ipa": "/ˈsteɪtmənt/",
+  "pos": "n.",
+  "meaning_zh": "財務報表;對帳單;聲明"
+ },
+ "quarter": {
+  "ipa": "/ˈkwɔrtər/",
+  "pos": "n.",
+  "meaning_zh": "季度;四分之一;25分硬幣"
+ },
+ "analysis": {
+  "ipa": "/əˈnæləsɪs/",
+  "pos": "n.",
+  "meaning_zh": "分析"
+ },
+ "consumer": {
+  "ipa": "/kənˈsuːmər/",
+  "pos": "n.",
+  "meaning_zh": "消費者"
+ },
+ "competitor": {
+  "ipa": "/kəmˈpɛtətər/",
+  "pos": "n.",
+  "meaning_zh": "競爭對手"
+ },
+ "strategy": {
+  "ipa": "/ˈstrætədʒi/",
+  "pos": "n.",
+  "meaning_zh": "策略"
+ },
+ "campaign": {
+  "ipa": "/kæmˈpeɪn/",
+  "pos": "n.",
+  "meaning_zh": "(行銷)活動;競選活動"
+ },
+ "launch": {
+  "ipa": "/lɔːntʃ/",
+  "pos": "v.",
+  "meaning_zh": "推出;發表;發射"
+ },
+ "survey": {
+  "ipa": "/ˈsɜːrveɪ/",
+  "pos": "n.",
+  "meaning_zh": "調查"
+ },
+ "discount": {
+  "ipa": "/ˈdɪskaʊnt/",
+  "pos": "n.",
+  "meaning_zh": "折扣;不採信"
+ },
+ "subscription": {
+  "ipa": "/səbˈskrɪpʃən/",
+  "pos": "n.",
+  "meaning_zh": "訂閱；(股票)認購"
+ },
+ "retailer": {
+  "ipa": "/ˈriːteɪlər/",
+  "pos": "n.",
+  "meaning_zh": "零售商"
+ },
+ "expand": {
+  "ipa": "/ɪkˈspænd/",
+  "pos": "v.",
+  "meaning_zh": "擴展"
+ },
+ "brochure": {
+  "ipa": "/broʊˈʃʊr/",
+  "pos": "n.",
+  "meaning_zh": "宣傳手冊"
+ },
+ "demonstrate": {
+  "ipa": "/ˈdɛmənstreɪt/",
+  "pos": "v.",
+  "meaning_zh": "示範;證明；示威抗議"
+ },
+ "manufacture": {
+  "ipa": "/ˌmænjəˈfæktʃər/",
+  "pos": "v.",
+  "meaning_zh": "製造"
+ },
+ "component": {
+  "ipa": "/kəmˈpoʊnənt/",
+  "pos": "n.",
+  "meaning_zh": "零件;組成部分"
+ },
+ "defective": {
+  "ipa": "/dɪˈfɛktɪv/",
+  "pos": "adj.",
+  "meaning_zh": "有瑕疵的"
+ },
+ "inspect": {
+  "ipa": "/ɪnˈspɛkt/",
+  "pos": "v.",
+  "meaning_zh": "檢驗;檢查"
+ },
+ "durable": {
+  "ipa": "/ˈdʊrəbəl/",
+  "pos": "adj.",
+  "meaning_zh": "耐用的"
+ },
+ "supplier": {
+  "ipa": "/səˈplaɪər/",
+  "pos": "n.",
+  "meaning_zh": "供應商"
+ },
+ "warranty": {
+  "ipa": "/ˈwɔːrənti/",
+  "pos": "n.",
+  "meaning_zh": "保固"
+ },
+ "shipment": {
+  "ipa": "/ˈʃɪpmənt/",
+  "pos": "n.",
+  "meaning_zh": "貨運;裝運"
+ },
+ "customs": {
+  "ipa": "/ˈkʌstəmz/",
+  "pos": "n.",
+  "meaning_zh": "海關；風俗習慣"
+ },
+ "destination": {
+  "ipa": "/ˌdɛstəˈneɪʃən/",
+  "pos": "n.",
+  "meaning_zh": "目的地"
+ },
+ "departure": {
+  "ipa": "/dɪˈpɑːrtʃər/",
+  "pos": "n.",
+  "meaning_zh": "出發;離境；偏離；背離(常規)"
+ },
+ "passenger": {
+  "ipa": "/ˈpæsəndʒər/",
+  "pos": "n.",
+  "meaning_zh": "乘客"
+ },
+ "attraction": {
+  "ipa": "/əˈtrækʃən/",
+  "pos": "n.",
+  "meaning_zh": "景點；吸引力"
+ },
+ "quotation": {
+  "ipa": "/kwoʊˈteɪʃən/",
+  "pos": "n.",
+  "meaning_zh": "報價單；引文；引語"
+ },
+ "contract": {
+  "ipa": "/ˈkɑnˌtrækt/",
+  "pos": "n.",
+  "meaning_zh": "合約;收縮"
+ },
+ "renew": {
+  "ipa": "/rɪˈnuː/",
+  "pos": "v.",
+  "meaning_zh": "續約"
+ },
+ "regulation": {
+  "ipa": "/ˌrɛgjəˈleɪʃən/",
+  "pos": "n.",
+  "meaning_zh": "法規"
+ },
+ "penalty": {
+  "ipa": "/ˈpɛnəlti/",
+  "pos": "n.",
+  "meaning_zh": "罰款;處罰"
+ },
+ "valid": {
+  "ipa": "/ˈvælɪd/",
+  "pos": "adj.",
+  "meaning_zh": "有效的"
+ },
+ "resolve": {
+  "ipa": "/rɪˈzɑlv/",
+  "pos": "v.",
+  "meaning_zh": "解決;下定決心"
+ },
+ "branch": {
+  "ipa": "/bræntʃ/",
+  "pos": "n.",
+  "meaning_zh": "分行;樹枝;分支"
+ }
+}
